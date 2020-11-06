@@ -1,1 +1,2 @@
-# class-2-main
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
